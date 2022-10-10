@@ -78,6 +78,7 @@ p {
 
 .about {
     padding: 15px;
+    letter-spacing: .005em;
     border-top: 1px solid rgba(0,0,0,0.5);
     border-bottom: 1px solid rgba(0,0,0,0.5);
 }
@@ -89,6 +90,7 @@ p {
 
 .content-me {
     padding: 15px;
+    letter-spacing: .05em;
 }
 
 ul {
@@ -111,7 +113,7 @@ li {
   }
 
   .fa-brands:hover {
-    transform:scale(1.1);
+    transform:scale(1.2);
   }
 
 .fa-square-facebook:hover {
